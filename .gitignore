@@ -1,0 +1,15 @@
+#data/*
+output
+*~
+__pycache__
+*/*/*/cached_*
+
+*/__pycache__
+*/model
+*/lightning_logs
+*/germeval-model
+*/.DS_Store
+*/preds_debug.out
+*/debug.out
+
+data/muc/raw_files/muc34
