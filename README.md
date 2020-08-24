@@ -1,7 +1,7 @@
 # Document-level Event-based Extraction Using Generative Template-filling Transformers ([link](http://arxiv.org/abs/2008.09249))
 
 <p align='center'>
-  <img src='figs/task.jpg' width="600px">
+  <img src='figs/task.png' width="350px">
 </p>
 
 ## Dependencies
@@ -23,7 +23,7 @@
 ## GTT model 
 
 <p align='center'>
-  <img src='figs/architecture.jpg' width="600px">
+  <img src='figs/architecture.png' width="800px">
 </p>
 
 * The encoder-decoder model (code is written based on hugging face [transformers/examples/ner/3ee431d](https://github.com/huggingface/transformers/tree/3ee431dd4c720e67e35a449b453d3dc2b15ccfff)
