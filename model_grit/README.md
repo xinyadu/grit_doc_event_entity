@@ -1,4 +1,4 @@
-## single transformer enc-dec model (GTT)
+## single transformer enc-dec model (GRIT)
 
 ### Train and Test
 Run `bash run_pl.sh`. 
