@@ -20,7 +20,7 @@
 * eval on preds.out `python eval.py --pred_file model_gtt/preds_s_t.out`
 * run simple test case: `python test_cases_eval.py`
 
-## GTT model 
+## GRIT model 
 
 <p align='center'>
   <img src='figs/architecture.png' width="800px">
